@@ -3,6 +3,8 @@
 Kubernetes is an **Open source container Orchestration platform it automates the depolyment,scaling,**and management containerized applications.
 Kubernetes can be traced back to googles internal container orchestration system
 
+![Kubernetes k8s](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F879617e5-c870-4258-97b1-8dfac6e232e1_2796x3816.jpeg)
+
 ## Problem does kubernetes solve 
 
 Kubernetes addresses several challenges associated with deploying and managing containerized applications in a 
