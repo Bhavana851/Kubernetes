@@ -1,7 +1,0 @@
-# Kubernetes_Overview
-
-1. Container, what is a container and why is it needed?
-
-- In the past, when multiple apps were uploaded to a server, 
-- there were many issues because the OS or library versions compatible with each app were different.
-
