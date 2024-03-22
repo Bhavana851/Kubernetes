@@ -98,7 +98,13 @@ But, where do we manage these nodes?
 - The agent is responsible for making sure that the containers are running on the nodes as expected
 - => SW is for launching the container, and kubelet is the agent for launching each node.
 
+# 5) kubectl (=kubel control):
 
+- command line utility used in k8s 
+
+- Command utility used when deploying or querying an app.
+
+ 
 
 
 
