@@ -13,7 +13,7 @@ Let's see a situation:
 
 - When we have more people and need additional applications , we need to increase our containers.
 
-[KC](https://res.cloudinary.com/practicaldev/image/fetch/s--6iYFq9BN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ozi23w4fyfnh9qdrnn9.png)
+[](https://res.cloudinary.com/practicaldev/image/fetch/s--6iYFq9BN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ozi23w4fyfnh9qdrnn9.png)
 
 ![Kc](https://res.cloudinary.com/practicaldev/image/fetch/s--hXH_kTk8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pa7zsyh8byr1aveabnnn.png)
 
