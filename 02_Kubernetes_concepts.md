@@ -27,6 +27,32 @@ Let's see a situation:
 - A single POD CAN have multiple containers, except for the fact that they are usually not multiple containers of the same kind.
 
 
+# How to create a pod? 
+
+# To create a pod named nginx, using image nginx, we need to use the command
+```kubectl run nginx --image=nginx ```
+
+here left side's nginx is the pod name and the right side's nginx means image name from dockerhub
+
+# to see the list of pods,
+type
+```kubectl get  pods```
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--s_eVoAZe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/td7cuu9ln4ah8d937zwj.png)
+
+
+# Also checkout the description of the pod, using
+
+ ``` kubectl describe pod nginx ```
+
+
+
+
+
+
+
+
+
 
 
 
